@@ -1,5 +1,5 @@
 Цели:
-coinflip [x]
-balance [x]
-profile [x]
-leaderboard [ ]
+[x] coinflip
+[ ] balance
+profile
+leaderboard 
