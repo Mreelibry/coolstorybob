@@ -1,6 +1,5 @@
-README
-```
+Цели:
 coinflip [x]
-[x] balance [x]
+balance [x]
 profile [x]
-```
+leaderboard [ ]
