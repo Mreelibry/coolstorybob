@@ -1,4 +1,4 @@
-Цели:
+#Цели:
 [x] coinflip
 [ ] balance
 profile
