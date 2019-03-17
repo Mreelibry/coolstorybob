@@ -1,0 +1,12 @@
+{
+    "muterole":"Muted",
+    "newrole":"YouRole",
+    "cmsg":1,
+    "xmsg":1,
+    "bonustime":10,
+    "bonuscoins":100,
+    "casinocoef1":2,
+    "casinocoef2":3,
+    "reasonkick":"Kicked",
+    "reasonban":"Banned"
+}
