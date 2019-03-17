@@ -1,5 +1,6 @@
-#Цели:
-[x] coinflip
-[ ] balance
-profile
-leaderboard 
+## Цели:
+ > - [x]  **`!coinflip`**
+ > - [x]  **`!balance`**
+ > - [x]  **`!profile`**
+ > - [ ]  **`!leaderboard`**
+
