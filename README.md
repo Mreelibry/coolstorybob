@@ -1,6 +1,6 @@
 README
 ```
 coinflip [x]
-balance [x]
+[x] balance [x]
 profile [x]
 ```
